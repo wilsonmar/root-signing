@@ -7,7 +7,6 @@ require (
 	github.com/google/go-cmp v0.5.9
 	github.com/peterbourgon/ff/v3 v3.3.0
 	github.com/pkg/errors v0.9.1
-	github.com/secure-systems-lab/go-securesystemslib v0.4.0
 	github.com/sigstore/cosign v1.13.1
 	github.com/sigstore/sigstore v1.5.1
 	github.com/spf13/cobra v1.6.1
@@ -20,6 +19,7 @@ require (
 require (
 	cloud.google.com/go/compute/metadata v0.2.3 // indirect
 	github.com/common-nighthawk/go-figure v0.0.0-20210622060536-734e95fb86be // indirect
+	github.com/secure-systems-lab/go-securesystemslib v0.5.0 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 )
 
